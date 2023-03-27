@@ -19,6 +19,7 @@ int main() {
             cout << "Arvo: " << value << " loytyy indeksista: " << distance(vec.begin(), it) << '\n';
         } else {
             cout << "Arvo: " << value << " Ei loydy\n";
+
         }
     }
 }
