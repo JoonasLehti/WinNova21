@@ -28,21 +28,33 @@ int main()
         {
             SaaTiedot tempData;
             stringstream ss(teksti);
-            ss >> tempData.vuosi >> tempData.kuukausi >> tempData.paiva >> tempData.ilmanlampo >> tempData.Ylinlampo >> tempData.Alinlampo;
-            data.push_back(tempData);
-         }
+            string value;
+            try
+            {
+                getline(ss, value, '\t'); tempData.vuosi = stoi(value);
+                getline(ss, value, '\t'); tempData.kuukausi = stoi(value);
+                getline(ss, value, '\t');tempData.paiva = stoi(value);
+                getline(ss, value, '\t'); tempData.ilmanlampo = stof(value);
+                getline(ss, value, '\t'); tempData.Ylinlampo = stof(value);
+                getline(ss, value); tempData.Alinlampo = stof(value);
+                data.push_back(tempData);
+            }
+            catch (const invalid_argument& e)
+            {
+            }
+        }
         tiedosto.close();
     }
     else
     {
         cout << "Tiedostoa ei ole" << endl;
     }
-        float maxYlinlampo = data[1].Ylinlampo;
-        float minAlinlampo = data[1].Alinlampo;
-        int maxYlinlampoIndex = 1;
-        int minAlinlampoIndex = 1;
+        float maxYlinlampo = data[0].Ylinlampo;
+        float minAlinlampo = data[0].Alinlampo;
+        int maxYlinlampoIndex = 0;
+        int minAlinlampoIndex = 0;
 
-        for (unsigned int i = 2; i < data.size(); i++)
+        for (unsigned int i = 0; i < data.size(); i++)
         {
             if (data[i].Ylinlampo >= maxYlinlampo)
             {
