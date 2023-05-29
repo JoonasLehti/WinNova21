@@ -33,7 +33,7 @@ int main() {
 
     map<set<string>, int> frequentItemsets;
     for (const auto& candidate : candidates) {
-        if (candidate.second > 30) {
+        if (candidate.second >= 30) {
             frequentItemsets[candidate.first] = candidate.second;
         }
     }
@@ -61,7 +61,7 @@ int main() {
 
         frequentItemsets.clear();
         for (const auto& candidate : candidates) {
-            if (candidate.second > 30) {
+            if (candidate.second >= 30) {
                 frequentItemsets[candidate.first] = candidate.second;
             }
         }
