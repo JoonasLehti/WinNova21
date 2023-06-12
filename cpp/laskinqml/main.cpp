@@ -1,6 +1,7 @@
 #include <QGuiApplication>
 #include <QQmlApplicationEngine>
 #include <QQmlContext>
+#include <QResource>
 #include "calculator.h"
 
 int main(int argc, char *argv[])

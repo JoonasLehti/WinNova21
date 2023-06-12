@@ -3,6 +3,7 @@ import QtQuick.Controls 2.15
 import QtQuick.Layouts 1.1
 import Calculator 1.0
 
+
 ApplicationWindow {
     visible: true
     width: 480
@@ -50,23 +51,154 @@ ApplicationWindow {
         }
     }
 
-    TextField {
-        anchors {
-            top: parent.top
-            left: parent.left
-            right: parent.right
+    ColumnLayout{
+        Layout.alignment: Qt.AlignHCenter
+        RowLayout {
+            Layout.alignment: Qt.AlignHCenter
+            spacing: 5
+            RowLayout {
+                Layout.alignment: Qt.AlignHCenter
+                spacing: 5
+            TextField {
+                Layout.fillWidth: true
+                height: parent.height * 0.1
+                id: inputBox2
+                text: calculator.display
+            }
         }
-        height: parent.height * 0.1
-        id: inputBox2
-        text: calculator.display
     }
+        RowLayout {
+            Layout.alignment: Qt.AlignHCenter
+            spacing: 5
+            Buttons {
+                text: "Backspace"
+                onClicked: calculator.backspaceClicked()
+            }
+            Buttons {
+                text: "Clear"
+                onClicked: calculator.clear()
+            }
+            Buttons {
+                text: "Clear All"
+                onClicked: calculator.clearAll()
+            }
+        }
+        ColumnLayout{
+            Layout.alignment: Qt.AlignHCenter
+            RowLayout {
+                Layout.alignment: Qt.AlignHCenter
+                spacing: 5
+                Buttons {
+                    text: "MC"
+                    onClicked: calculator.clearMemory()
+                }
+                Buttons {
+                    text: "7"
+                    onClicked: calculator.digitClicked("7")
+                }
+                Buttons {
+                    text: "8"
+                    onClicked: calculator.digitClicked("8")
+                }
+                Buttons {
+                    text: "9"
+                    onClicked: calculator.digitClicked("9")
+                }
+                Buttons {
+                    text: "/"
+                    onClicked: calculator.multiplicativeOperatorClicked(Calculator.Division)
+                }
+                Buttons {
+                    text: "Sqrt"
+                    onClicked: calculator.unaryOperatorClicked(Calculator.SquareRoot)
+                }
+            }
+            RowLayout {
+                Layout.alignment: Qt.AlignHCenter
+                spacing: 5
+                Buttons {
+                    text: "MR"
+                    onClicked: calculator.readMemory()
+                }
+                Buttons {
+                    text: "4"
+                    onClicked: calculator.digitClicked("4")
+                }
+                Buttons {
+                    text: "5"
+                    onClicked: calculator.digitClicked("5")
+                }
+                Buttons {
+                    text: "6"
+                    onClicked: calculator.digitClicked("6")
+                }
+                Buttons {
+                    text: "*"
+                    onClicked: calculator.multiplicativeOperatorClicked(Calculator.Multiplication)
+                }
+                Buttons {
+                    text: "X2"
+                    onClicked: calculator.unaryOperatorClicked(Calculator.Square)
+                }
+            }
+            RowLayout {
+                Layout.alignment: Qt.AlignHCenter
+                spacing: 5
 
-    Buttons {
-        anchors {
-            top: inputBox2.bottom
-            left: parent.left
-            right: parent.right
-            bottom: parent.bottom
+                Buttons {
+                    text: "MS"
+                    onClicked: calculator.setMemory()
+                }
+                Buttons {
+                    text: "1"
+                    onClicked: calculator.digitClicked("1")
+                }
+                Buttons {
+                    text: "2"
+                    onClicked: calculator.digitClicked("2")
+                }
+                Buttons {
+                    text: "3"
+                    onClicked: calculator.digitClicked("3")
+                }
+                Buttons {
+                    text: "-"
+                    onClicked: calculator.additiveOperatorClicked(Calculator.Substraction)
+                }
+                Buttons {
+                    text: "1/x"
+                    onClicked: calculator.unaryOperatorClicked(Calculator.Inverse)
+                }
+            }
+            RowLayout {
+                Layout.alignment: Qt.AlignHCenter
+                spacing: 5
+
+                Buttons {
+                    text: "M+"
+                    onClicked: calculator.addToMemory()
+                }
+                Buttons {
+                    text: "0"
+                    onClicked: calculator.digitClicked("0")
+                }
+                Buttons {
+                    text: "."
+                    onClicked: calculator.pointClicked()
+                }
+                Buttons {
+                    text: "+/-"
+                    onClicked: calculator.changeSignClicked()
+                }
+                Buttons {
+                    text: "+"
+                    onClicked: calculator.additiveOperatorClicked(Calculator.Addition)
+                }
+                Buttons {
+                    text: "="
+                    onClicked: calculator.equalClicked()
+                }
+            }
         }
     }
 }
