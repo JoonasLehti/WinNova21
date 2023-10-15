@@ -35,3 +35,286 @@ build*/
 *.exe
 *.out
 *.app
+cpp/ChordBuilder/asset_imports/asset_imports.txt
+cpp/ChordBuilder/ChordBuilder.qmlproject
+cpp/ChordBuilder/CMakeLists.txt
+cpp/ChordBuilder/CMakeLists.txt.user
+cpp/ChordBuilder/content/App.qml
+cpp/ChordBuilder/content/CMakeLists.txt
+cpp/ChordBuilder/content/fonts/fonts.txt
+cpp/ChordBuilder/content/Screen01.ui.qml
+cpp/ChordBuilder/imports/ChordBuilder/CMakeLists.txt
+cpp/ChordBuilder/imports/ChordBuilder/Constants.qml
+cpp/ChordBuilder/imports/ChordBuilder/designer/plugin.metainfo
+cpp/ChordBuilder/imports/ChordBuilder/DirectoryFontLoader.qml
+cpp/ChordBuilder/imports/ChordBuilder/EventListModel.qml
+cpp/ChordBuilder/imports/ChordBuilder/EventListSimulator.qml
+cpp/ChordBuilder/imports/ChordBuilder/qmldir
+cpp/ChordBuilder/imports/CMakeLists.txt
+cpp/ChordBuilder/insight
+cpp/ChordBuilder/main.qml
+cpp/ChordBuilder/qmlcomponents
+cpp/ChordBuilder/qmlmodules
+cpp/ChordBuilder/qtquickcontrols2.conf
+cpp/ChordBuilder/src/app_environment.h
+cpp/ChordBuilder/src/import_qml_components_plugins.h
+cpp/ChordBuilder/src/import_qml_plugins.h
+cpp/ChordBuilder/src/main.cpp
+cpp/HakuIteraattoreilla/main.cpp
+cpp/InternetSpeedCalcQt/asset_imports/asset_imports.txt
+cpp/InternetSpeedCalcQt/CMakeLists.txt
+cpp/InternetSpeedCalcQt/CMakeLists.txt.user
+cpp/InternetSpeedCalcQt/content/App.qml
+cpp/InternetSpeedCalcQt/content/CMakeLists.txt
+cpp/InternetSpeedCalcQt/content/fonts/fonts.txt
+cpp/InternetSpeedCalcQt/content/Screen01.ui.qml
+cpp/InternetSpeedCalcQt/imports/CMakeLists.txt
+cpp/InternetSpeedCalcQt/imports/InternetSpeedCalcQt/CMakeLists.txt
+cpp/InternetSpeedCalcQt/imports/InternetSpeedCalcQt/Constants.qml
+cpp/InternetSpeedCalcQt/imports/InternetSpeedCalcQt/designer/plugin.metainfo
+cpp/InternetSpeedCalcQt/imports/InternetSpeedCalcQt/DirectoryFontLoader.qml
+cpp/InternetSpeedCalcQt/imports/InternetSpeedCalcQt/EventListModel.qml
+cpp/InternetSpeedCalcQt/imports/InternetSpeedCalcQt/EventListSimulator.qml
+cpp/InternetSpeedCalcQt/imports/InternetSpeedCalcQt/qmldir
+cpp/InternetSpeedCalcQt/InternetSpeedCalcQt.qmlproject
+cpp/InternetSpeedCalcQt/InternetSpeedCalcQt.qmlproject.qtds
+cpp/InternetSpeedCalcQt/main.qml
+cpp/InternetSpeedCalcQt/qmlcomponents
+cpp/InternetSpeedCalcQt/qmlmodules
+cpp/InternetSpeedCalcQt/qtquickcontrols2.conf
+cpp/InternetSpeedCalcQt/src/app_environment.h
+cpp/InternetSpeedCalcQt/src/calculator.cpp
+cpp/InternetSpeedCalcQt/src/calculator.h
+cpp/InternetSpeedCalcQt/src/import_qml_components_plugins.h
+cpp/InternetSpeedCalcQt/src/import_qml_plugins.h
+cpp/InternetSpeedCalcQt/src/main.cpp
+cpp/InternetSpeedCalculatorQt/asset_imports/asset_imports.txt
+cpp/InternetSpeedCalculatorQt/calculator.cpp
+cpp/InternetSpeedCalculatorQt/calculator.h
+cpp/InternetSpeedCalculatorQt/calculator.ui
+cpp/InternetSpeedCalculatorQt/CMakeLists.txt
+cpp/InternetSpeedCalculatorQt/content/App.qml
+cpp/InternetSpeedCalculatorQt/content/CMakeLists.txt
+cpp/InternetSpeedCalculatorQt/content/fonts/fonts.txt
+cpp/InternetSpeedCalculatorQt/content/Screen01.ui.qml
+cpp/InternetSpeedCalculatorQt/imports/CMakeLists.txt
+cpp/InternetSpeedCalculatorQt/imports/InternetSpeedCalculatorQt/CMakeLists.txt
+cpp/InternetSpeedCalculatorQt/imports/InternetSpeedCalculatorQt/Constants.qml
+cpp/InternetSpeedCalculatorQt/imports/InternetSpeedCalculatorQt/designer/plugin.metainfo
+cpp/InternetSpeedCalculatorQt/imports/InternetSpeedCalculatorQt/DirectoryFontLoader.qml
+cpp/InternetSpeedCalculatorQt/imports/InternetSpeedCalculatorQt/EventListModel.qml
+cpp/InternetSpeedCalculatorQt/imports/InternetSpeedCalculatorQt/EventListSimulator.qml
+cpp/InternetSpeedCalculatorQt/imports/InternetSpeedCalculatorQt/qmldir
+cpp/InternetSpeedCalculatorQt/InternetSpeedCalculatorQt.pro
+cpp/InternetSpeedCalculatorQt/InternetSpeedCalculatorQt.qmlproject
+cpp/InternetSpeedCalculatorQt/main.cpp
+cpp/InternetSpeedCalculatorQt/main.qml
+cpp/InternetSpeedCalculatorQt/qmlcomponents
+cpp/InternetSpeedCalculatorQt/qmlmodules
+cpp/InternetSpeedCalculatorQt/qtquickcontrols2.conf
+cpp/InternetSpeedCalculatorQt/src/app_environment.h
+cpp/InternetSpeedCalculatorQt/src/import_qml_components_plugins.h
+cpp/InternetSpeedCalculatorQt/src/import_qml_plugins.h
+cpp/InternetSpeedCalculatorQt/src/main.cpp
+cpp/laskinnapit/android/AndroidManifest.xml
+cpp/laskinnapit/android/build.gradle
+cpp/laskinnapit/android/gradle.properties
+cpp/laskinnapit/android/gradle/wrapper/gradle-wrapper.jar
+cpp/laskinnapit/android/gradle/wrapper/gradle-wrapper.properties
+cpp/laskinnapit/android/gradlew
+cpp/laskinnapit/android/gradlew.bat
+cpp/laskinnapit/android/res/drawable-hdpi/icon.png
+cpp/laskinnapit/android/res/drawable-ldpi/icon.png
+cpp/laskinnapit/android/res/drawable-mdpi/icon.png
+cpp/laskinnapit/android/res/drawable-xhdpi/icon.png
+cpp/laskinnapit/android/res/drawable-xxhdpi/icon.png
+cpp/laskinnapit/android/res/drawable-xxxhdpi/icon.png
+cpp/laskinnapit/android/res/values/libs.xml
+cpp/laskinnapit/calculator.cpp
+cpp/laskinnapit/calculator.h
+cpp/laskinnapit/components/Buttons.qml
+cpp/laskinnapit/DarkTheme.qml
+cpp/laskinnapit/drawable/AndroidManifest.xml
+cpp/laskinnapit/drawable/Images/calculator.png
+cpp/laskinnapit/drawable/res/drawable-hdpi/icon.png
+cpp/laskinnapit/drawable/res/drawable-ldpi/icon.png
+cpp/laskinnapit/drawable/res/drawable-mdpi/icon.png
+cpp/laskinnapit/drawable/res/drawable-xhdpi/icon.png
+cpp/laskinnapit/drawable/res/drawable-xxhdpi/icon.png
+cpp/laskinnapit/drawable/res/drawable-xxxhdpi/icon.png
+cpp/laskinnapit/laskinqml.pro
+cpp/laskinnapit/laskinqml.pro.qtds
+cpp/laskinnapit/main.cpp
+cpp/laskinnapit/main.qml
+cpp/laskinnapit/qml.qrc
+cpp/laskinnapit/qml.rcc
+cpp/PostItNote/CMakeLists.txt
+cpp/PostItNote/CMakeLists.txt.user
+cpp/PostItNote/main.cpp
+cpp/PostItNote/mainwindow.cpp
+cpp/PostItNote/mainwindow.h
+cpp/PostItNote/mainwindow.ui
+cpp/QMLMusicPlayer/android/AndroidManifest.xml
+cpp/QMLMusicPlayer/android/build.gradle
+cpp/QMLMusicPlayer/android/gradle.properties
+cpp/QMLMusicPlayer/android/gradle/wrapper/gradle-wrapper.jar
+cpp/QMLMusicPlayer/android/gradle/wrapper/gradle-wrapper.properties
+cpp/QMLMusicPlayer/android/gradlew
+cpp/QMLMusicPlayer/android/gradlew.bat
+cpp/QMLMusicPlayer/android/res/values/libs.xml
+cpp/QMLMusicPlayer/main.cpp
+cpp/QMLMusicPlayer/main.qml
+cpp/QMLMusicPlayer/player.cpp
+cpp/QMLMusicPlayer/player.h
+cpp/QMLMusicPlayer/qml.qrc
+cpp/QMLMusicPlayer/QMLMusicPlayer.pro
+cpp/QMLMusicPlayer2/main.cpp
+cpp/QMLMusicPlayer2/musicplayer.cpp
+cpp/QMLMusicPlayer2/musicplayer.h
+cpp/QMLMusicPlayer2/musicplayer.ui
+cpp/QMLMusicPlayer2/QMLMusicPlayer2.pro
+cpp/Shapes/main.cpp
+cpp/Shapes/shapes.cpp
+cpp/Shapes/shapes.h
+cpp/Shapes/Shapes.pro
+cpp/untitled/main.cpp
+cpp/untitled/untitled.pro
+cpp/untitled1/main.cpp
+cpp/untitled1/mainwindow.cpp
+cpp/untitled1/mainwindow.h
+cpp/untitled1/mainwindow.ui
+cpp/untitled1/untitled1.pro
+cpp/untitled2/asset_imports/asset_imports.txt
+cpp/untitled2/calculator.cpp
+cpp/untitled2/calculator.h
+cpp/untitled2/CMakeLists.txt
+cpp/untitled2/content/App.qml
+cpp/untitled2/content/CMakeLists.txt
+cpp/untitled2/content/fonts/fonts.txt
+cpp/untitled2/content/Screen01.ui.qml
+cpp/untitled2/imports/CMakeLists.txt
+cpp/untitled2/imports/untitled2/CMakeLists.txt
+cpp/untitled2/imports/untitled2/Constants.qml
+cpp/untitled2/imports/untitled2/designer/plugin.metainfo
+cpp/untitled2/imports/untitled2/DirectoryFontLoader.qml
+cpp/untitled2/imports/untitled2/EventListModel.qml
+cpp/untitled2/imports/untitled2/EventListSimulator.qml
+cpp/untitled2/imports/untitled2/qmldir
+cpp/untitled2/main.qml
+cpp/untitled2/qmlcomponents
+cpp/untitled2/qmlmodules
+cpp/untitled2/qtquickcontrols2.conf
+cpp/untitled2/src/app_environment.h
+cpp/untitled2/src/calculator.cpp
+cpp/untitled2/src/calculator.h
+cpp/untitled2/src/import_qml_components_plugins.h
+cpp/untitled2/src/import_qml_plugins.h
+cpp/untitled2/src/main.cpp
+cpp/untitled2/untitled2.qmlproject
+cpp/VektorinTayttaminenJatkuu/main.cpp
+OmatProjektit/ChordBuilder/ChordBuilder/asset_imports/asset_imports.txt
+OmatProjektit/ChordBuilder/ChordBuilder/ChordBuilder.qmlproject
+OmatProjektit/ChordBuilder/ChordBuilder/ChordBuilder.qmlproject.qtds
+OmatProjektit/ChordBuilder/ChordBuilder/CMakeLists.txt
+OmatProjektit/ChordBuilder/ChordBuilder/CMakeLists.txt.user
+OmatProjektit/ChordBuilder/ChordBuilder/content/App.qml
+OmatProjektit/ChordBuilder/ChordBuilder/content/CMakeLists.txt
+OmatProjektit/ChordBuilder/ChordBuilder/content/fonts/fonts.txt
+OmatProjektit/ChordBuilder/ChordBuilder/content/Screen01.ui.qml
+OmatProjektit/ChordBuilder/ChordBuilder/imports/ChordBuilder/CMakeLists.txt
+OmatProjektit/ChordBuilder/ChordBuilder/imports/ChordBuilder/Constants.qml
+OmatProjektit/ChordBuilder/ChordBuilder/imports/ChordBuilder/designer/plugin.metainfo
+OmatProjektit/ChordBuilder/ChordBuilder/imports/ChordBuilder/DirectoryFontLoader.qml
+OmatProjektit/ChordBuilder/ChordBuilder/imports/ChordBuilder/EventListModel.qml
+OmatProjektit/ChordBuilder/ChordBuilder/imports/ChordBuilder/EventListSimulator.qml
+OmatProjektit/ChordBuilder/ChordBuilder/imports/ChordBuilder/qmldir
+OmatProjektit/ChordBuilder/ChordBuilder/imports/CMakeLists.txt
+OmatProjektit/ChordBuilder/ChordBuilder/insight
+OmatProjektit/ChordBuilder/ChordBuilder/main.qml
+OmatProjektit/ChordBuilder/ChordBuilder/qmlcomponents
+OmatProjektit/ChordBuilder/ChordBuilder/qmlmodules
+OmatProjektit/ChordBuilder/ChordBuilder/qtquickcontrols2.conf
+OmatProjektit/ChordBuilder/ChordBuilder/src/app_environment.h
+OmatProjektit/ChordBuilder/ChordBuilder/src/import_qml_components_plugins.h
+OmatProjektit/ChordBuilder/ChordBuilder/src/import_qml_plugins.h
+OmatProjektit/ChordBuilder/ChordBuilder/src/main.cpp
+OmatProjektit/Godot/First2Dgame/.gitattributes
+OmatProjektit/Godot/First2Dgame/assets/background.png
+OmatProjektit/Godot/First2Dgame/assets/background.png.import
+OmatProjektit/Godot/First2Dgame/assets/bumper.png
+OmatProjektit/Godot/First2Dgame/assets/bumper.png.import
+OmatProjektit/Godot/First2Dgame/assets/coin.png
+OmatProjektit/Godot/First2Dgame/assets/coin.png.import
+OmatProjektit/Godot/First2Dgame/assets/enemy.png
+OmatProjektit/Godot/First2Dgame/assets/enemy.png.import
+OmatProjektit/Godot/First2Dgame/assets/font_default.tres
+OmatProjektit/Godot/First2Dgame/assets/font_title.tres
+OmatProjektit/Godot/First2Dgame/assets/icon.png
+OmatProjektit/Godot/First2Dgame/assets/icon.png.import
+OmatProjektit/Godot/First2Dgame/assets/light.png
+OmatProjektit/Godot/First2Dgame/assets/light.png.import
+OmatProjektit/Godot/First2Dgame/assets/montserrat_extrabold.otf
+OmatProjektit/Godot/First2Dgame/assets/montserrat_extrabold.otf.import
+OmatProjektit/Godot/First2Dgame/assets/player.png
+OmatProjektit/Godot/First2Dgame/assets/player.png.import
+OmatProjektit/Godot/First2Dgame/assets/portal.png
+OmatProjektit/Godot/First2Dgame/assets/portal.png.import
+OmatProjektit/Godot/First2Dgame/assets/tileset.png
+OmatProjektit/Godot/First2Dgame/assets/tileset.png.import
+OmatProjektit/Godot/First2Dgame/assets/tileset.tres
+OmatProjektit/Godot/First2Dgame/assets/ui_theme.tres
+OmatProjektit/Godot/First2Dgame/icon.svg
+OmatProjektit/Godot/First2Dgame/icon.svg.import
+OmatProjektit/Godot/First2Dgame/project.godot
+OmatProjektit/Godot/First2Dgame/src/Actors/Actor.gd
+OmatProjektit/Godot/First2Dgame/src/Actors/player.gd
+OmatProjektit/Godot/First2Dgame/src/Actors/player.tscn
+OmatProjektit/InternetSpeedCalc/internetspeedcalc.cpp
+OmatProjektit/InternetSpeedCalc/internetspeedcalc.h
+OmatProjektit/InternetSpeedCalc/InternetSpeedCalc.pro
+OmatProjektit/InternetSpeedCalc/internetspeedcalc.ui
+OmatProjektit/InternetSpeedCalc/main.cpp
+OmatProjektit/Unreal Engine 5/Warehouse Wreckage/Windows/Engine/Binaries/Win64/tbb.pdb
+OmatProjektit/Unreal Engine 5/Warehouse Wreckage/Windows/Engine/Binaries/Win64/UnrealGame.pdb
+OmatProjektit/Unreal Engine 5/Warehouse Wreckage/Windows/Engine/Content/SlateDebug/Fonts/LastResort.tps
+OmatProjektit/Unreal Engine 5/Warehouse Wreckage/Windows/Engine/Content/SlateDebug/Fonts/LastResort.ttf
+OmatProjektit/Unreal Engine 5/Warehouse Wreckage/Windows/Engine/Extras/GPUDumpViewer/GPUDumpViewer.html
+OmatProjektit/Unreal Engine 5/Warehouse Wreckage/Windows/Engine/Extras/GPUDumpViewer/OpenGPUDumpViewer.bat
+OmatProjektit/Unreal Engine 5/Warehouse Wreckage/Windows/Engine/Extras/GPUDumpViewer/OpenGPUDumpViewer.sh
+OmatProjektit/Unreal Engine 5/Warehouse Wreckage/Windows/Engine/Saved/Config/Windows/Manifest.ini
+OmatProjektit/Unreal Engine 5/Warehouse Wreckage/Windows/Manifest_DebugFiles_Win64.txt
+OmatProjektit/Unreal Engine 5/Warehouse Wreckage/Windows/Manifest_NonUFSFiles_Win64.txt
+OmatProjektit/Unreal Engine 5/Warehouse Wreckage/Windows/Manifest_UFSFiles_Win64.txt
+OmatProjektit/Unreal Engine 5/Warehouse Wreckage/Windows/WarehouseWreckage/Content/Paks/global.ucas
+OmatProjektit/Unreal Engine 5/Warehouse Wreckage/Windows/WarehouseWreckage/Content/Paks/global.utoc
+OmatProjektit/Unreal Engine 5/Warehouse Wreckage/Windows/WarehouseWreckage/Content/Paks/WarehouseWreckage-Windows.pak
+OmatProjektit/Unreal Engine 5/Warehouse Wreckage/Windows/WarehouseWreckage/Content/Paks/WarehouseWreckage-Windows.ucas
+OmatProjektit/Unreal Engine 5/Warehouse Wreckage/Windows/WarehouseWreckage/Content/Paks/WarehouseWreckage-Windows.utoc
+OmatProjektit/Unreal Engine 5/Warehouse Wreckage/Windows/WarehouseWreckage/Saved/Config/CrashReportClient/UECC-Windows-778B47EB437D5B24D3BCD7A6ABD4AA23/CrashReportClient.ini
+OmatProjektit/Unreal Engine 5/Warehouse Wreckage/Windows/WarehouseWreckage/Saved/Config/Windows/Compat.ini
+OmatProjektit/Unreal Engine 5/Warehouse Wreckage/Windows/WarehouseWreckage/Saved/Config/Windows/ControlRig.ini
+OmatProjektit/Unreal Engine 5/Warehouse Wreckage/Windows/WarehouseWreckage/Saved/Config/Windows/DatasmithContent.ini
+OmatProjektit/Unreal Engine 5/Warehouse Wreckage/Windows/WarehouseWreckage/Saved/Config/Windows/DeviceProfiles.ini
+OmatProjektit/Unreal Engine 5/Warehouse Wreckage/Windows/WarehouseWreckage/Saved/Config/Windows/EditorScriptingUtilities.ini
+OmatProjektit/Unreal Engine 5/Warehouse Wreckage/Windows/WarehouseWreckage/Saved/Config/Windows/Engine.ini
+OmatProjektit/Unreal Engine 5/Warehouse Wreckage/Windows/WarehouseWreckage/Saved/Config/Windows/EnhancedInput.ini
+OmatProjektit/Unreal Engine 5/Warehouse Wreckage/Windows/WarehouseWreckage/Saved/Config/Windows/FullBodyIK.ini
+OmatProjektit/Unreal Engine 5/Warehouse Wreckage/Windows/WarehouseWreckage/Saved/Config/Windows/Game.ini
+OmatProjektit/Unreal Engine 5/Warehouse Wreckage/Windows/WarehouseWreckage/Saved/Config/Windows/GameUserSettings.ini
+OmatProjektit/Unreal Engine 5/Warehouse Wreckage/Windows/WarehouseWreckage/Saved/Config/Windows/GLTFExporter.ini
+OmatProjektit/Unreal Engine 5/Warehouse Wreckage/Windows/WarehouseWreckage/Saved/Config/Windows/Hardware.ini
+OmatProjektit/Unreal Engine 5/Warehouse Wreckage/Windows/WarehouseWreckage/Saved/Config/Windows/IKRig.ini
+OmatProjektit/Unreal Engine 5/Warehouse Wreckage/Windows/WarehouseWreckage/Saved/Config/Windows/InstallBundle.ini
+OmatProjektit/Unreal Engine 5/Warehouse Wreckage/Windows/WarehouseWreckage/Saved/Config/Windows/Metasound.ini
+OmatProjektit/Unreal Engine 5/Warehouse Wreckage/Windows/WarehouseWreckage/Saved/Config/Windows/Niagara.ini
+OmatProjektit/Unreal Engine 5/Warehouse Wreckage/Windows/WarehouseWreckage/Saved/Config/Windows/Paper2D.ini
+OmatProjektit/Unreal Engine 5/Warehouse Wreckage/Windows/WarehouseWreckage/Saved/Config/Windows/RuntimeOptions.ini
+OmatProjektit/Unreal Engine 5/Warehouse Wreckage/Windows/WarehouseWreckage/Saved/Config/Windows/Scalability.ini
+OmatProjektit/Unreal Engine 5/Warehouse Wreckage/Windows/WarehouseWreckage/Saved/Config/Windows/Synthesis.ini
+OmatProjektit/Unreal Engine 5/Warehouse Wreckage/Windows/WarehouseWreckage/Saved/Config/Windows/TraceUtilities.ini
+OmatProjektit/Unreal Engine 5/Warehouse Wreckage/Windows/WarehouseWreckage/Saved/Config/Windows/VariantManagerContent.ini
+OmatProjektit/Unreal Engine 5/Warehouse Wreckage/Windows/WarehouseWreckage/Saved/Logs/WarehouseWreckage.log
+OmatProjektit/untitled2/CMakeLists.txt
+OmatProjektit/untitled2/main.cpp
+OmatProjektit/untitled2/main.qml
+OmatProjektit/untitled2/qml.qrc
