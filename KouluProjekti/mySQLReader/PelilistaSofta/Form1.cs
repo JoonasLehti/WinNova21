@@ -38,9 +38,13 @@ namespace mySQLReader
 
         private void listBox2_SelectedIndexChanged(object sender, EventArgs e)
         {
+            if (listBox2.SelectedItem == null) {return;}
+            else
+            {
             string selectedItem2 = listBox2.SelectedItem.ToString();
 
             selectedTable = selectedItem2;
+            }
         }
 
         private void UpdateListBox2()

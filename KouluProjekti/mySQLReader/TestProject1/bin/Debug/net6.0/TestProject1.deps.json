@@ -13,8 +13,8 @@
           "NUnit": "3.13.3",
           "NUnit.Analyzers": "3.3.0",
           "NUnit3TestAdapter": "4.2.1",
-          "PelilistaSofta": "1.0.0",
-          "coverlet.collector": "3.1.2"
+          "coverlet.collector": "3.1.2",
+          "mySQLReader": "1.0.0"
         },
         "runtime": {
           "TestProject1.dll": {}
@@ -1056,7 +1056,7 @@
           }
         }
       },
-      "PelilistaSofta/1.0.0": {
+      "mySQLReader/1.0.0": {
         "runtime": {
           "PelilistaSofta.exe": {}
         }
@@ -1622,7 +1622,7 @@
       "path": "system.xml.xpath.xmldocument/4.0.1",
       "hashPath": "system.xml.xpath.xmldocument.4.0.1.nupkg.sha512"
     },
-    "PelilistaSofta/1.0.0": {
+    "mySQLReader/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

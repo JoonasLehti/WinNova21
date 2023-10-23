@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dHh7BxS/EeCW0xXNU+W6xXUtDFugWS3K7c5urj6TbplgF55UBFCEizxQ4kKIUO6HBgbvQ3WU/meU939xjIeQjw==",
+  "dgSpecHash": "VE4zcFzI+Tny+SrZIzSDnogIzmurxduyjj/QjDpv/zoGBp20Ag1BB4mwhk7rLZOCLakWu9Qdhud3BOQdUW+EsQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lennu\\Documents\\GitHub\\Joonas_Lehti\\KouluProjekti\\PelilistaSofta\\TestProject1\\TestProject1.csproj",
+  "projectFilePath": "C:\\Users\\Lennu\\Documents\\GitHub\\Joonas_Lehti\\KouluProjekti\\mySQLReader\\TestProject1\\TestProject1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lennu\\.nuget\\packages\\bouncycastle.netcore\\1.8.3\\bouncycastle.netcore.1.8.3.nupkg.sha512",
     "C:\\Users\\Lennu\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
